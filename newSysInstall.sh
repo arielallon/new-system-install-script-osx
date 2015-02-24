@@ -35,7 +35,7 @@ brew install tree
 brew install node
 brew install sqlite
 brew install postgresql
-brew install mongodb
+#brew install mongodb
 brew install mcrypt
 brew install php56
 brew install php56-mcrypt
@@ -43,6 +43,7 @@ brew install php56-xdebug
 brew install phpunit
 brew install openssl
 brew install gpg2
+brew install hr
 
 ### homebrew cask packages
 brew cask install vagrant
@@ -63,8 +64,8 @@ brew cask install vlc
 brew cask install sublime-text3
 brew cask install sequel-pro
 
-### modifies Alfred's scope to include the Caskroom
-brew cask alfred
+# vagrant
+vagrant plugin install vagrant-vbguest
 
 ### update, cleanup, & doctor
 brew update 
