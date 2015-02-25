@@ -79,9 +79,12 @@ brew cask install gimp
 brew cask install dash
 brew cask install keka
 brew cask install libreoffice
-
-
-
+brew cask install liya
+brew cask install reggy
+brew cask install skitch
+brew cask install skype
+brew cask install utorrent
+brew cask install wireshark
 
 # vagrant
 vagrant plugin install vagrant-vbguest
@@ -97,3 +100,4 @@ brew cask doctor
 ### RVM, Ruby, Rails
 # gpg2 --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
 # \curl -L https://get.rvm.io | bash -s stable --auto-dotfiles --autolibs=enable --ruby --rails
+brew cask install skitch
