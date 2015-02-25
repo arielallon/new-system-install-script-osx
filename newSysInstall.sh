@@ -49,6 +49,7 @@ brew install gpg2
 brew install hr
 # make sure xcode is installed first
 brew install meld
+brew install gnuplot
 
 ### homebrew cask packages
 brew cask install virtualbox
@@ -70,6 +71,16 @@ brew cask install textwrangler
 brew cask install bettertouchtool
 brew cask install phpstorm
 brew cask install audacity
+brew cask install diffmerge
+brew cask install disk-inventory-x
+brew cask install filezilla
+brew cask install flickr-uploadr
+brew cask install gimp
+brew cask install dash
+brew cask install keka
+brew cask install libreoffice
+
+
 
 
 # vagrant
