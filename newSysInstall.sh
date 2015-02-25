@@ -46,23 +46,18 @@ brew install gpg2
 brew install hr
 
 ### homebrew cask packages
-brew cask install vagrant
 brew cask install virtualbox
-brew cask install alfred
+brew cask install vagrant165
+brew cask install vagrant-manager
 brew cask install iterm2
-brew cask install onepassword
-brew cask install seil
-brew cask install divvy
 brew cask install sourcetree
-brew cask install dropbox
 brew cask install firefox
-brew cask install firefoxdeveloperedition
 brew cask install google-chrome
-brew cask install google-chrome-canary
-brew cask install spotify
 brew cask install vlc
 brew cask install sublime-text3
 brew cask install sequel-pro
+brew cask install tunnelblick
+brew cask install hipchat
 
 # vagrant
 vagrant plugin install vagrant-vbguest
