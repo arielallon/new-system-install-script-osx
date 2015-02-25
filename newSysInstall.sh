@@ -58,6 +58,7 @@ brew cask install sublime-text3
 brew cask install sequel-pro
 brew cask install tunnelblick
 brew cask install hipchat
+brew cask install opera
 
 # vagrant
 vagrant plugin install vagrant-vbguest
