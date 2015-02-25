@@ -27,6 +27,9 @@ brew cask doctor
 brew update
 brew cask update
 
+### pre-reqs
+brew cask install xquartz
+
 ### homebrew packages
 brew install wget
 brew install git
@@ -44,6 +47,8 @@ brew install phpunit
 brew install openssl
 brew install gpg2
 brew install hr
+# make sure xcode is installed first
+brew install meld
 
 ### homebrew cask packages
 brew cask install virtualbox
@@ -59,6 +64,13 @@ brew cask install sequel-pro
 brew cask install tunnelblick
 brew cask install hipchat
 brew cask install opera
+brew cask install flowdock
+brew cask install slack
+brew cask install textwrangler
+brew cask install bettertouchtool
+brew cask install phpstorm
+brew cask install audacity
+
 
 # vagrant
 vagrant plugin install vagrant-vbguest
